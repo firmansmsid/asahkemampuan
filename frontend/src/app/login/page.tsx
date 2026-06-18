@@ -8,7 +8,7 @@ import { useAuthStore } from '@/store/authStore';
 import { getErrorMessage } from '@/lib/utils';
 import toast from 'react-hot-toast';
 import { useSearchParams } from 'next/navigation';
-import api from '@/lib/api';
+import api from '@/lib/axios';
 
 export default function LoginPage() {
   const searchParams = useSearchParams();
