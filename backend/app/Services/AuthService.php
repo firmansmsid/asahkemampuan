@@ -21,6 +21,11 @@ class AuthService
 
         $role = $data['role'] ?? 'peserta';
 
+        // Option B: Auto approve peserta
+        if ($role === 'peserta') {
+            $autoApprove = true;
+        }
+
         // Pembuat soal always requires admin approval
         if ($role === 'pembuat_soal') {
             $autoApprove = false;
@@ -36,12 +41,13 @@ class AuthService
             'referred_by' => $referrerId,
         ]);
 
+        // Kirim email verifikasi bawaan Laravel
+        $user->sendEmailVerificationNotification();
+
         if ($role === 'pembuat_soal') {
-            $message = 'Pendaftaran sebagai Pembuat Soal berhasil. Akun Anda akan diaktifkan setelah disetujui oleh admin.';
-        } elseif ($autoApprove) {
-            $message = 'Pendaftaran berhasil. Akun Anda langsung aktif, silakan login dan lakukan pembayaran.';
+            $message = 'Pendaftaran sebagai Pembuat Soal berhasil. Silakan cek email Anda untuk verifikasi, lalu tunggu persetujuan admin.';
         } else {
-            $message = 'Pendaftaran berhasil. Akun Anda akan diaktifkan setelah disetujui oleh admin.';
+            $message = 'Pendaftaran berhasil. Silakan cek email Anda untuk melakukan verifikasi akun.';
         }
 
         return [
@@ -60,7 +66,15 @@ class AuthService
 
         $user = Auth::user();
 
-        // Cek apakah akun sudah disetujui admin
+        // Cek apakah email sudah diverifikasi
+        if (!$user->hasVerifiedEmail()) {
+            Auth::logout();
+            throw ValidationException::withMessages([
+                'email' => ['Email belum diverifikasi'], // Used by frontend to show resend button
+            ]);
+        }
+
+        // Cek apakah akun sudah disetujui admin (jika role butuh approval)
         if (!$user->is_approved) {
             Auth::logout();
             throw ValidationException::withMessages([

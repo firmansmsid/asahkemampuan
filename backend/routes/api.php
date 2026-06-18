@@ -17,11 +17,17 @@ use App\Http\Controllers\Api\VerifikatorController;
 use App\Http\Controllers\Api\LandingSettingController;
 use App\Http\Controllers\Api\TestimoniController;
 
+use App\Http\Controllers\Api\VerificationController;
+
 // Public routes
 Route::prefix('auth')->group(function () {
     Route::post('/register', [AuthController::class, 'register']);
     Route::post('/login', [AuthController::class, 'login']);
 });
+
+// Email Verification
+Route::get('/email/verify/{id}/{hash}', [VerificationController::class, 'verify'])->name('verification.verify');
+Route::post('/email/resend', [VerificationController::class, 'resend']);
 
 Route::get('/kategori', [KategoriController::class, 'index']);
 Route::get('/kategori/{id}', [KategoriController::class, 'show']);

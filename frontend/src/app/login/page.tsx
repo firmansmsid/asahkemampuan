@@ -3,16 +3,22 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { GraduationCap, Eye, EyeOff, ArrowRight, Mail, Lock } from 'lucide-react';
+import { GraduationCap, Eye, EyeOff, ArrowRight, Mail, Lock, CheckCircle2 } from 'lucide-react';
 import { useAuthStore } from '@/store/authStore';
 import { getErrorMessage } from '@/lib/utils';
 import toast from 'react-hot-toast';
+import { useSearchParams } from 'next/navigation';
+import api from '@/lib/api';
 
 export default function LoginPage() {
+  const searchParams = useSearchParams();
+  const isVerified = searchParams.get('verified') === '1';
+
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [errors, setErrors] = useState<Record<string, string>>({});
+  const [isResending, setIsResending] = useState(false);
   const { login, isLoading } = useAuthStore();
   const router = useRouter();
 
@@ -59,9 +65,40 @@ export default function LoginPage() {
           <h2 className="text-2xl font-bold text-slate-800 mb-1">Selamat Datang</h2>
           <p className="text-slate-500 text-sm mb-7">Masuk ke akun Asah Kemampuan Anda</p>
 
+          {isVerified && (
+            <div className="mb-5 p-3 bg-emerald-50 border border-emerald-200 rounded-xl text-emerald-700 text-sm flex items-start gap-2">
+              <CheckCircle2 className="w-5 h-5 shrink-0 mt-0.5" />
+              <div>
+                <p className="font-semibold">Email Berhasil Diverifikasi</p>
+                <p>Silakan masuk menggunakan email dan password Anda.</p>
+              </div>
+            </div>
+          )}
+
           {errors.general && (
             <div className="mb-5 p-3 bg-red-50 border border-red-200 rounded-xl text-red-600 text-sm">
-              {errors.general}
+              <p>{errors.general}</p>
+              {errors.general === 'Email belum diverifikasi' && (
+                <button 
+                  type="button" 
+                  onClick={async () => {
+                    if (!email) return;
+                    setIsResending(true);
+                    try {
+                      await api.post('/email/resend', { email });
+                      toast.success('Link verifikasi berhasil dikirim ulang ke email Anda.');
+                    } catch (error) {
+                      toast.error(getErrorMessage(error));
+                    } finally {
+                      setIsResending(false);
+                    }
+                  }}
+                  disabled={isResending}
+                  className="mt-2 text-red-700 underline font-semibold text-xs hover:text-red-800 disabled:opacity-50"
+                >
+                  {isResending ? 'Mengirim ulang...' : 'Kirim Ulang Email Verifikasi'}
+                </button>
+              )}
             </div>
           )}
 
