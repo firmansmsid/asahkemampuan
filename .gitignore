@@ -1,0 +1,9 @@
+# Ignore temporary scripts
+ssh_check.exp
+ssh_check2.exp
+*.exp
+
+# Ignore IDE files
+.vscode/
+.idea/
+.DS_Store

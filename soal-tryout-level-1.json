@@ -1,0 +1,2507 @@
+{
+  "title": "Try Out I Level 1 ( Perpres 46/2025)",
+  "description": "Silahkan pilih jawaban yang paling tepat. Jika benar dengan skor 1 (satu), jika salah dengan skor 0 (nol). selama 120 menit. syarat kelulusan minimal 65",
+  "total_questions": 100,
+  "questions": [
+    {
+      "number": 1,
+      "original_text": "Perencanaan pengadaan barang/jasa harus di susun dengan terpadu berdasarkan hasil identifikasi kebutuhan pengguna akhir. Hasil perencanaan ditetapkan oleh PA/KPA. Tindakan ini merupakan aktivitas pada level…",
+      "text": "Perencanaan pengadaan barang/jasa harus di susun dengan terpadu berdasarkan hasil identifikasi kebutuhan pengguna akhir. Hasil perencanaan ditetapkan oleh PA/KPA. Tindakan ini merupakan aktivitas pada level…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Strategis"
+        },
+        {
+          "key": "b",
+          "text": "Taktis"
+        },
+        {
+          "key": "c",
+          "text": "Operasional"
+        },
+        {
+          "key": "d",
+          "text": "Manajerial"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "original_text": "Setelah PPK mengirimkan dokumen persiapan pengadaan yang berupa spesifikasi teknis/KAK, HPS dan rancangan kontrak, pokja pemilihan harus melakukan reviu dan melaksanakan pemilihan penyedia barang/jasa. Kegiatan yang dilakukan oleh pokja pemilihan merupakan kegiatan manajemen rantai pasok pada tahap….",
+      "text": "Setelah PPK mengirimkan dokumen persiapan pengadaan yang berupa spesifikasi teknis/KAK, HPS dan rancangan kontrak, pokja pemilihan harus melakukan reviu dan melaksanakan pemilihan penyedia barang/jasa. Kegiatan yang dilakukan oleh pokja pemilihan merupakan kegiatan manajemen rantai pasok pada tahap….",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Plan"
+        },
+        {
+          "key": "b",
+          "text": "Source"
+        },
+        {
+          "key": "c",
+          "text": "Make"
+        },
+        {
+          "key": "d",
+          "text": "Deliver"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "original_text": "Rantai pasok pengadaan bibit tanaman pangan sebagai berikut :\nI. Penyedia bibit\nII. Dinas Pertanian\nIII. Petani\nDiantara rantai pasok diatas, mana yang termasuk rantai pasok hulu ?",
+      "text": "Rantai pasok pengadaan bibit tanaman pangan sebagai berikut :\nI. Penyedia bibit\nII. Dinas Pertanian\nIII. Petani\nDiantara rantai pasok diatas, mana yang termasuk rantai pasok hulu ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "I"
+        },
+        {
+          "key": "b",
+          "text": "II"
+        },
+        {
+          "key": "c",
+          "text": "III"
+        },
+        {
+          "key": "d",
+          "text": "I dan II"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "original_text": "Pengadaan Barang/Jasa adalah kegiatan Pengadaan Barang/Jasa yang dilakukan oleh K/L/PD/instuti lainnya/pemerintah desa yeng menggunakan dana APBN/APBD/APB Desa prosesnya mulai dari …..",
+      "text": "Pengadaan Barang/Jasa adalah kegiatan Pengadaan Barang/Jasa yang dilakukan oleh K/L/PD/instuti lainnya/pemerintah desa yeng menggunakan dana APBN/APBD/APB Desa prosesnya mulai dari …..",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Identifikasi kebutuhan sampai dengan Barang/Jasa sampai lokasi pengadaan"
+        },
+        {
+          "key": "b",
+          "text": "Identifikasi kebutuhan sampai dengan Barang/Jasa dapat digunakan"
+        },
+        {
+          "key": "c",
+          "text": "Identifikasi kebutuhan sampai dengan Adanya Surat Perintah Pengiriman"
+        },
+        {
+          "key": "d",
+          "text": "Identifikasi kebutuhan sampai dengan Serah terima hasil pekerjaan"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "original_text": "RSUD Kota A membutuhkan pekerjaan perawatan ruangan rawat inap dengan nilai paket Rp. 800 juta dengan masa pelaksanaan selama 2 bulan. Pengadaan diatas termasuk jenis pengadaan...",
+      "text": "RSUD Kota A membutuhkan pekerjaan perawatan ruangan rawat inap dengan nilai paket Rp. 800 juta dengan masa pelaksanaan selama 2 bulan. Pengadaan diatas termasuk jenis pengadaan...",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Barang"
+        },
+        {
+          "key": "b",
+          "text": "Pekerjaan Konstruksi"
+        },
+        {
+          "key": "c",
+          "text": "Jasa Konsultansi"
+        },
+        {
+          "key": "d",
+          "text": "Jasa Lainnya"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "original_text": "Berapa batasan penyedia asing pekerjaan konstruksi dapat mengikuti proses pemilihan di Indonesia ?",
+      "text": "Berapa batasan penyedia asing pekerjaan konstruksi dapat mengikuti proses pemilihan di Indonesia ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Dibawah Rp. 1 triliun"
+        },
+        {
+          "key": "b",
+          "text": "Diatas Rp. 1 triliun"
+        },
+        {
+          "key": "c",
+          "text": "Dibawah Rp. 2 triliun"
+        },
+        {
+          "key": "d",
+          "text": "Diatas Rp. 2 triliun"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "original_text": "Salah satu tujuan pengadaan barang/jasa pemerintah adalah",
+      "text": "Salah satu tujuan pengadaan barang/jasa pemerintah adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Meningkatkan kualitas perencanaan"
+        },
+        {
+          "key": "b",
+          "text": "Menghindari konflik kepentingan"
+        },
+        {
+          "key": "c",
+          "text": "Melaksanakan PBJ secara transparan"
+        },
+        {
+          "key": "d",
+          "text": "Meningkatkan keikutsertaan industri kreatif"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "original_text": "Dalam rangka meningkatkan penggunaan produk dalam negeri. PPK dalam menyusun dan menetapkan spesifikasi teknis wajib mengutamakan produk dalam negeri. Berapa batasan kandungan tingkat komponen dalam negeri dan bobot manfaat perusahaan yang wajib menggunakan produk dalam negeri ?",
+      "text": "Dalam rangka meningkatkan penggunaan produk dalam negeri. PPK dalam menyusun dan menetapkan spesifikasi teknis wajib mengutamakan produk dalam negeri. Berapa batasan kandungan tingkat komponen dalam negeri dan bobot manfaat perusahaan yang wajib menggunakan produk dalam negeri ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "25 %"
+        },
+        {
+          "key": "b",
+          "text": "30%"
+        },
+        {
+          "key": "c",
+          "text": "35 %"
+        },
+        {
+          "key": "d",
+          "text": "40 %"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "original_text": "Kebijakan preferensi harga untuk produk dalam negeri diberikan untuk nilai paket minimal…..",
+      "text": "Kebijakan preferensi harga untuk produk dalam negeri diberikan untuk nilai paket minimal…..",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "1 miliar"
+        },
+        {
+          "key": "b",
+          "text": "2 miliar"
+        },
+        {
+          "key": "c",
+          "text": "3 miliar"
+        },
+        {
+          "key": "d",
+          "text": "4 miliar"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "original_text": "PA/KPA wajib menetapkan rencana pengadaan barang/jasa, selanjutnya di umumkan rencana pengadaan kedalam aplikasi SIRUP LKPP. Tindakan PA/KPA ini merupakan penerapan prinsip…",
+      "text": "PA/KPA wajib menetapkan rencana pengadaan barang/jasa, selanjutnya di umumkan rencana pengadaan kedalam aplikasi SIRUP LKPP. Tindakan PA/KPA ini merupakan penerapan prinsip…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Efisien"
+        },
+        {
+          "key": "b",
+          "text": "Efektif"
+        },
+        {
+          "key": "c",
+          "text": "Transparan"
+        },
+        {
+          "key": "d",
+          "text": "Terbuka"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "original_text": "PA/KPA wajib menyusun perencanaan pengadaan. Dalam menyusun perencanaan harus menyusun spesifikasi teknis yang paling sesuai dengan kebutuhan pengguna akhir. Tindakan PA/KPA ini meruapan penerapan prinsip…",
+      "text": "PA/KPA wajib menyusun perencanaan pengadaan. Dalam menyusun perencanaan harus menyusun spesifikasi teknis yang paling sesuai dengan kebutuhan pengguna akhir. Tindakan PA/KPA ini meruapan penerapan prinsip…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Efisien"
+        },
+        {
+          "key": "b",
+          "text": "Efektif"
+        },
+        {
+          "key": "c",
+          "text": "Transparan"
+        },
+        {
+          "key": "d",
+          "text": "Terbuka"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "original_text": "Pokja pemilihan sedang melaksanakan evaluasi kualifikasi pengadaan pekerjaan konstruksi dengan nilai paket Rp. 30 miliar ada 3 penyedia yang mengisi tabel kualifikasi yaitu A, B dan C. Pokja menemukan bahwa komisaris penyedia A merangkap direktur pada penyedia B.  Bagaimana tindakan yang harus dilakukan oleh Pokja Pemilihan ?",
+      "text": "Pokja pemilihan sedang melaksanakan evaluasi kualifikasi pengadaan pekerjaan konstruksi dengan nilai paket Rp. 30 miliar ada 3 penyedia yang mengisi tabel kualifikasi yaitu A, B dan C. Pokja menemukan bahwa komisaris penyedia A merangkap direktur pada penyedia B.  Bagaimana tindakan yang harus dilakukan oleh Pokja Pemilihan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Semua penyedia dinyatakan lulus"
+        },
+        {
+          "key": "b",
+          "text": "Penyedia A dan B lulus"
+        },
+        {
+          "key": "c",
+          "text": "Semua penyedia dinyatakan gugur"
+        },
+        {
+          "key": "d",
+          "text": "Penyedia A dan B dinyatakan gugur"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "original_text": "Penyedia A digugurkan penawarannya dengan alasan pemilik sahamnya merupakan PPK paket yang sama. Tindakan yang dilakukan pokja pemilihan ini merupakan penerapan dari….",
+      "text": "Penyedia A digugurkan penawarannya dengan alasan pemilik sahamnya merupakan PPK paket yang sama. Tindakan yang dilakukan pokja pemilihan ini merupakan penerapan dari….",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Tujuan pengadaan"
+        },
+        {
+          "key": "b",
+          "text": "Prinsip pengadaan"
+        },
+        {
+          "key": "c",
+          "text": "Etika pengadaan"
+        },
+        {
+          "key": "d",
+          "text": "Kebijakan pengadaan"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "original_text": "Penyedia A di kenakan sanksi daftar hitam karena wanprestasi kontrak pembangunan gedung dinas Pendidikan. Namun penyedia menolak dikenakan sanksi akibat adanya pelanggaran prosedur administrasi, pada saat PPK mengusulkan sanksi daftar hitam kepada PA/KPA tidak ditembuskan ke penyedia A sehingga penyedia tidak memiliki kesempatan menyatakan keberatan yang disertai dengan alat bukti yang memadai. Atas dasar keberatan tersebut, penyedia A dapat mengajukan gugatan melalui….",
+      "text": "Penyedia A di kenakan sanksi daftar hitam karena wanprestasi kontrak pembangunan gedung dinas Pendidikan. Namun penyedia menolak dikenakan sanksi akibat adanya pelanggaran prosedur administrasi, pada saat PPK mengusulkan sanksi daftar hitam kepada PA/KPA tidak ditembuskan ke penyedia A sehingga penyedia tidak memiliki kesempatan menyatakan keberatan yang disertai dengan alat bukti yang memadai. Atas dasar keberatan tersebut, penyedia A dapat mengajukan gugatan melalui….",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pengadilan agama"
+        },
+        {
+          "key": "b",
+          "text": "Pengadilan pidana"
+        },
+        {
+          "key": "c",
+          "text": "Komisi pengawas persaingan usaha (KPPU)"
+        },
+        {
+          "key": "d",
+          "text": "Pengadilan tata usaha negara (PTUN)"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "original_text": "15, Dinas perumahan akan melaksanakan kajian tata ruang pemukiman urban dengan kerjasama dengan perguruan tinggi negeri setempat. Sebelum pelaksanaan pekerjaan harus disusun rencana kegiatan dan jadwal pelaksanaan. Siapa yang betugas melakukan kegiatan tersebut ?",
+      "text": "Dinas perumahan akan melaksanakan kajian tata ruang pemukiman urban dengan kerjasama dengan perguruan tinggi negeri setempat. Sebelum pelaksanaan pekerjaan harus disusun rencana kegiatan dan jadwal pelaksanaan. Siapa yang betugas melakukan kegiatan tersebut ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Tim Perencanaan"
+        },
+        {
+          "key": "b",
+          "text": "Tim persiapan"
+        },
+        {
+          "key": "c",
+          "text": "Tim Pelaksana"
+        },
+        {
+          "key": "d",
+          "text": "Tim Pengawas"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "original_text": "16. Pokja Pemilihan kota A sedang melaksanakan pemilihan pengadaan alat kesehatan untuk rumah sakit dengan nilai HPS Rp. 2 miliar. Proses evaluasi sudah tahap usulan penetapan pemenang. Siapa yang berwenang menetapkan pemenang jasa konsultan tersebut ?",
+      "text": "Pokja Pemilihan kota A sedang melaksanakan pemilihan pengadaan alat kesehatan untuk rumah sakit dengan nilai HPS Rp. 2 miliar. Proses evaluasi sudah tahap usulan penetapan pemenang. Siapa yang berwenang menetapkan pemenang jasa konsultan tersebut ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pokja Pemilihan"
+        },
+        {
+          "key": "b",
+          "text": "Pejabat Pembuat Komitmen"
+        },
+        {
+          "key": "c",
+          "text": "Pengguna Anggaran"
+        },
+        {
+          "key": "d",
+          "text": "Kuasa Pengguna Anggaran"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "original_text": "Siapa yang berwenang menetapkan pemenang paket pekerjaan konstruksi dengan nilai paket Rp. 150 miliar ?",
+      "text": "Siapa yang berwenang menetapkan pemenang paket pekerjaan konstruksi dengan nilai paket Rp. 150 miliar ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pokja Pemilihan"
+        },
+        {
+          "key": "b",
+          "text": "PPK"
+        },
+        {
+          "key": "c",
+          "text": "Pejabat Pengadaan"
+        },
+        {
+          "key": "d",
+          "text": "PA/KPA"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "original_text": "Pokja Pemilihan akan melaksanakan tender pengadaan perlengkapan kantor dengan nilai paket Rp. 2 miliar. Apa persyaratan klasifikasi usahanya ?",
+      "text": "Pokja Pemilihan akan melaksanakan tender pengadaan perlengkapan kantor dengan nilai paket Rp. 2 miliar. Apa persyaratan klasifikasi usahanya ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Usaha Kecil"
+        },
+        {
+          "key": "b",
+          "text": "Usaha Menengah"
+        },
+        {
+          "key": "c",
+          "text": "Usaha Besar"
+        },
+        {
+          "key": "d",
+          "text": "Usaha Besar Non BUMN 4"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "original_text": "Apa pengertian e marketplace ?",
+      "text": "Apa pengertian e marketplace ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pasar elektronik yang disediakan untuk memenuhi kebutuhan barang/jasa pemerintah"
+        },
+        {
+          "key": "b",
+          "text": "Pasar tradisional yang disediakan untuk memenuhi kebutuhan barang/jasa pemerintah"
+        },
+        {
+          "key": "c",
+          "text": "Pasar elektronik yang disediakan untuk memenuhi kebutuhan barang/jasa swasta"
+        },
+        {
+          "key": "d",
+          "text": "Pasar elektronik yang disediakan untuk memenuhi kebutuhan barang/jasa asing"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "original_text": "Menteri/Kepala Lembaga/Kepala Daerah membentuk UKPBJ (Unit Kerja PBJ), berbentuk struktural. Fungsi UKPBJ adalah …",
+      "text": "Menteri/Kepala Lembaga/Kepala Daerah membentuk UKPBJ (Unit Kerja PBJ), berbentuk struktural. Fungsi UKPBJ adalah …",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pengelolaan pengadaan"
+        },
+        {
+          "key": "b",
+          "text": "Menjawab sanggah banding"
+        },
+        {
+          "key": "c",
+          "text": "Melakukan pengawasan internal"
+        },
+        {
+          "key": "d",
+          "text": "Melakukan audit pengadaan"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "original_text": "Pokja pemilihan menerima surat pengunduran diri  dari Penyedia A sebagai pemenang pengadaan alat kesehatan  senilai Rp. 1 miliar dengan alasan keuntungan yang akan diperoleh terlalu kecil. Atas kondisi ini, apa yang harus dilakukan oleh pokja pemilihan ?",
+      "text": "Pokja pemilihan menerima surat pengunduran diri  dari Penyedia A sebagai pemenang pengadaan alat kesehatan  senilai Rp. 1 miliar dengan alasan keuntungan yang akan diperoleh terlalu kecil. Atas kondisi ini, apa yang harus dilakukan oleh pokja pemilihan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Menerima dan menetapkan pemenang cadangan sebagai pemenang"
+        },
+        {
+          "key": "b",
+          "text": "Menolak dan mengusulkan sanksi daftar hitam kepada PA/KPA"
+        },
+        {
+          "key": "c",
+          "text": "Menolak dan mengusulkan sanksi daftar hitam kepada PPK"
+        },
+        {
+          "key": "d",
+          "text": "Menerima dan mengusulkan pemenang cadangan kepada PPK"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "original_text": "Dinas Pendidikan Kota A sedang menyusun dokumen perencanaan untuk tahun depan. Salah satunya adalah pengadaan  kursi siswa SD dengan jumlah 1000 unit.  Berdasarkan buku iventaris aset milik Dinas Pendidikan terdapat  50 kursi yang masih baru dan  belum dipakai dan 10  kursi pada kondisi rusak berat dan tidak bisa digunakan lagi.  Berapa jumlah  meja dan kursi yang diajukan dalam dokumen perencanaan ?",
+      "text": "Dinas Pendidikan Kota A sedang menyusun dokumen perencanaan untuk tahun depan. Salah satunya adalah pengadaan  kursi siswa SD dengan jumlah 1000 unit.  Berdasarkan buku iventaris aset milik Dinas Pendidikan terdapat  50 kursi yang masih baru dan  belum dipakai dan 10  kursi pada kondisi rusak berat dan tidak bisa digunakan lagi.  Berapa jumlah  meja dan kursi yang diajukan dalam dokumen perencanaan ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "950 unit"
+        },
+        {
+          "key": "b",
+          "text": "1000 unit"
+        },
+        {
+          "key": "c",
+          "text": "1050 unit"
+        },
+        {
+          "key": "d",
+          "text": "1060 unit"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "original_text": "Pihak – Pihak yang terlibat dalam perencanaan pengadaan barang/jasa antara lain",
+      "text": "Pihak – Pihak yang terlibat dalam perencanaan pengadaan barang/jasa antara lain",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pokja Pemilihan"
+        },
+        {
+          "key": "b",
+          "text": "Pejabat Pengadaan"
+        },
+        {
+          "key": "c",
+          "text": "PA/KPA"
+        },
+        {
+          "key": "d",
+          "text": "Tim Persiapan"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "original_text": "Hal-hal yang TIDAK perlu diperhatikan dalam melakukan identifikasi kebutuhan barang/jasa adalah",
+      "text": "Hal-hal yang TIDAK perlu diperhatikan dalam melakukan identifikasi kebutuhan barang/jasa adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Prinsip Efisien dan efektif"
+        },
+        {
+          "key": "b",
+          "text": "Ekatalog"
+        },
+        {
+          "key": "c",
+          "text": "PBJ Berkelanjutan"
+        },
+        {
+          "key": "d",
+          "text": "Jenis Kontrak"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "original_text": "PPK dinas Kesehatan kota A akan melaksanakan pengadaan  alat radiologi sebanyak 1  buah dengan pagu anggaran Rp. 30 miliar. Apa metode penyusunan spesifikasi mutu yang paling tepat ?",
+      "text": "PPK dinas Kesehatan kota A akan melaksanakan pengadaan  alat radiologi sebanyak 1  buah dengan pagu anggaran Rp. 30 miliar. Apa metode penyusunan spesifikasi mutu yang paling tepat ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kinerja"
+        },
+        {
+          "key": "b",
+          "text": "Komposisi"
+        },
+        {
+          "key": "c",
+          "text": "Sampel"
+        },
+        {
+          "key": "d",
+          "text": "Merk/type"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "original_text": "Apa komponen utama yang harus ada dalam penyusunan spesifikasi teknis?",
+      "text": "Apa komponen utama yang harus ada dalam penyusunan spesifikasi teknis?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Mutu, Jumlah, Waktu dan Pelayanan"
+        },
+        {
+          "key": "b",
+          "text": "Mutu, Jumlah, Waktu dan Garansi"
+        },
+        {
+          "key": "c",
+          "text": "Mutu, Jumlah, Pelatihan dan Garansi"
+        },
+        {
+          "key": "d",
+          "text": "Mutu, Biaya, Waktu dan Pelayanan"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "original_text": "Spesifikasi pelayanan yang harus ada untuk pengadaan alat laboratorium yang kompleks adalah",
+      "text": "Spesifikasi pelayanan yang harus ada untuk pengadaan alat laboratorium yang kompleks adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Ongkos kirim alat lab"
+        },
+        {
+          "key": "b",
+          "text": "Ijin usaha penyedia alat lab"
+        },
+        {
+          "key": "c",
+          "text": "Pelatihan operarator alat lab"
+        },
+        {
+          "key": "d",
+          "text": "Domisili tempat usaha"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "original_text": "Untuk persiapan pemilihan jasa konsultansi diperlukan Kerangka Acuan Kerja ( KAK). Isi dari KAK minimal berisi…..",
+      "text": "Untuk persiapan pemilihan jasa konsultansi diperlukan Kerangka Acuan Kerja ( KAK). Isi dari KAK minimal berisi…..",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Latar belakang, tujuan dan sasaran jasa konsultansi"
+        },
+        {
+          "key": "b",
+          "text": "Uraian pekerjaan, waktu dan spesifikasi teknis jasa konsultan"
+        },
+        {
+          "key": "c",
+          "text": "Waktu pelaksanaan yang diperlukan oleh tenaga ahli konsultan"
+        },
+        {
+          "key": "d",
+          "text": "Biaya personal dan non personal yang diperlukan oleh konsultan"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "original_text": "Dinas kesehatan kota A akan melaksanakan pengadaan suku cadang/spare part alat kesehatan. Maka cara penyusunan spesifikasi teknis yang paling tepat adalah",
+      "text": "Dinas kesehatan kota A akan melaksanakan pengadaan suku cadang/spare part alat kesehatan. Maka cara penyusunan spesifikasi teknis yang paling tepat adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Merk/type"
+        },
+        {
+          "key": "b",
+          "text": "Kinerja"
+        },
+        {
+          "key": "c",
+          "text": "Komposisi"
+        },
+        {
+          "key": "d",
+          "text": "Sampel"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "original_text": "RSUD Kota A akan melaksanakan pengadaan alat radiologi senilai Rp. 30 miliar yang masuk katogori beresiko tinggi.  Untuk penyusunan dan penetapan spesifikasi teknis, PPK di bantu oleh Tim teknis. Jika saudara sebagai anggota tim teknis, apa  komponen layanan yang harus ada dalam spesifikasi teknis alat tersebut ?",
+      "text": "RSUD Kota A akan melaksanakan pengadaan alat radiologi senilai Rp. 30 miliar yang masuk katogori beresiko tinggi.  Untuk penyusunan dan penetapan spesifikasi teknis, PPK di bantu oleh Tim teknis. Jika saudara sebagai anggota tim teknis, apa  komponen layanan yang harus ada dalam spesifikasi teknis alat tersebut ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Instalasi, pelatihan dan uji fungsi dan sertifikat kelaikan"
+        },
+        {
+          "key": "b",
+          "text": "Pengiriman dan instalasi serti uji fungsi"
+        },
+        {
+          "key": "c",
+          "text": "Pengurusan serttifikat kelaikan dari instansi berwenang"
+        },
+        {
+          "key": "d",
+          "text": "Instalasi, pelatihan dan uji fungsi"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "original_text": "PPK dinas Pendidikan akan melaksanakan pengadan perlengkapan kantor  senilai Rp. 1 miliar melalui tender pascakualifikasi. Kapan PPK harus menetapkan HPS ?",
+      "text": "PPK dinas Pendidikan akan melaksanakan pengadan perlengkapan kantor  senilai Rp. 1 miliar melalui tender pascakualifikasi. Kapan PPK harus menetapkan HPS ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "28 hari kalender sebelum batas akhir pemasukan penawaran"
+        },
+        {
+          "key": "b",
+          "text": "28 hari kerja sebelum batas akhir pemasukan penawaran"
+        },
+        {
+          "key": "c",
+          "text": "28 hari kalender sebelum evaluasi kualifikasi"
+        },
+        {
+          "key": "d",
+          "text": "28 hari kerja sebelum evaluasi kualifikasi"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "original_text": "Salah satu langkah yang dilakukan dalam penyusunan RAB pengadaan alat kesehatan adalah",
+      "text": "Salah satu langkah yang dilakukan dalam penyusunan RAB pengadaan alat kesehatan adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Identifikasi kebutuhan"
+        },
+        {
+          "key": "b",
+          "text": "Penetapan cara pengadaan"
+        },
+        {
+          "key": "c",
+          "text": "Pengumpulan data dan informasi"
+        },
+        {
+          "key": "d",
+          "text": "Menghitung komponen biaya"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "original_text": "Pengadaan dibawah  ini TIDAK memerlukan HPS adalah",
+      "text": "Pengadaan dibawah  ini TIDAK memerlukan HPS adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pembangunan   gedung senilai Rp. 3 miliar"
+        },
+        {
+          "key": "b",
+          "text": "Pengadaan  jasa konsultansi senilai Rp. 300 juta"
+        },
+        {
+          "key": "c",
+          "text": "Pengadaan jasa cleaning service senilai Rp. 3 miliar"
+        },
+        {
+          "key": "d",
+          "text": "Pengadaan ATK  senilai Rp. 3 juta"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "original_text": "Salah kegunaaan HPS adalam evaluasi penawaran penyedia adalah",
+      "text": "Salah kegunaaan HPS adalam evaluasi penawaran penyedia adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Alat untuk menggugurkan penawaran"
+        },
+        {
+          "key": "b",
+          "text": "Menilai kewajaran harga penawaran"
+        },
+        {
+          "key": "c",
+          "text": "Dasar untuk menentukan kerugian negara"
+        },
+        {
+          "key": "d",
+          "text": "Mementukaan besaran jaminan penawaran"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "original_text": "Salah satu komponen yang harus diperhatikan daalam menyusunan RAB adalah",
+      "text": "Salah satu komponen yang harus diperhatikan daalam menyusunan RAB adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "PPN"
+        },
+        {
+          "key": "b",
+          "text": "PPH"
+        },
+        {
+          "key": "c",
+          "text": "Biaya tak terduga"
+        },
+        {
+          "key": "d",
+          "text": "Biaya non teknis"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "original_text": "RAB merupakan total komponen biaya yang diperlukan untuk   mendapatkan   barang/jasa sampai dengan berfungsi. Untuk menyusun RAB di perlukan sejumlah langkah yang tepat agar semua kebutuhan biaya tercukupi. Apa langkah-langkah dalam menyusun RAB ?",
+      "text": "RAB merupakan total komponen biaya yang diperlukan untuk   mendapatkan   barang/jasa sampai dengan berfungsi. Untuk menyusun RAB di perlukan sejumlah langkah yang tepat agar semua kebutuhan biaya tercukupi. Apa langkah-langkah dalam menyusun RAB ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pengumpulan data dan informasi, identifikasi komponen, tentukan harga setiap komponen, penyusunan RAB dan RAB"
+        },
+        {
+          "key": "b",
+          "text": "Penyusunan RAB, Pengumpulan data dan informasi, identifikasi komponen, tentukan harga setiap komponen, dan RAB"
+        },
+        {
+          "key": "c",
+          "text": "RAB, Pengumpulan data dan informasi, identifikasi komponen, tentukan harga setiap komponen, penyusunan RAB"
+        },
+        {
+          "key": "d",
+          "text": "identifikasi komponen, Pengumpulan data dan informasi, , tentukan harga setiap komponen, penyusunan RAB dan RAB"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "original_text": "Pada RUP TA 2025 Dinas kesehatan Kota A akan melaksanakan pengadaan alat kesehatan senilai Rp. 10 miliar dan bahan medis habis pakai (BMHP) Rp. 1 miliar. Bagaimana pemaketan yang paling tepat ?",
+      "text": "Pada RUP TA 2025 Dinas kesehatan Kota A akan melaksanakan pengadaan alat kesehatan senilai Rp. 10 miliar dan bahan medis habis pakai (BMHP) Rp. 1 miliar. Bagaimana pemaketan yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "1 paket"
+        },
+        {
+          "key": "b",
+          "text": "2 paket"
+        },
+        {
+          "key": "c",
+          "text": "3 paket"
+        },
+        {
+          "key": "d",
+          "text": "4 paket"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "original_text": "Siapa yang berwenang untuk melakukan konsolidasi pengadaan pada tahap perencanaan pengadaan  ?",
+      "text": "Siapa yang berwenang untuk melakukan konsolidasi pengadaan pada tahap perencanaan pengadaan  ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "PA/KPA"
+        },
+        {
+          "key": "b",
+          "text": "PPK"
+        },
+        {
+          "key": "c",
+          "text": "Pejabat Pengadaan"
+        },
+        {
+          "key": "d",
+          "text": "UKPBJ"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "original_text": "Pemaketan pengadaan barang/jasa yang di benar adalah",
+      "text": "Pemaketan pengadaan barang/jasa yang di benar adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Paket pengadaan ATK senilai Rp. 300 juta dipecah dua menjadi 2 paket"
+        },
+        {
+          "key": "b",
+          "text": "Pengadaan 2 unit gedung puskesmas di jadi 2 paket karena lokasi berjauhan"
+        },
+        {
+          "key": "c",
+          "text": "Pengadaan laptop dan meja kursi di jadikan 1 paket  karena satu kesatuan"
+        },
+        {
+          "key": "d",
+          "text": "Pembangunan gedung sekolah 2 lantai dijadikan  2 paket untuk 1 paket lantai 1 dan 1 paket lantai 2"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "original_text": "Apa pengertian dari Konsolidasi PBJ ?",
+      "text": "Apa pengertian dari Konsolidasi PBJ ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "strategi Pengadaan Barang/Jasa dengan menggabungkan kebutuhan Barang/jasa untuk mendapatkan hasil yang efektif dan efisien."
+        },
+        {
+          "key": "b",
+          "text": "strategi Pengadaan Barang/Jasa dengan menggabungkan kebutuhan Barang/jasa untuk mendapatkan hasil yang sesui keinginan Pimpinan"
+        },
+        {
+          "key": "c",
+          "text": "strategi Pengadaan Barang/Jasa dengan memecah kebutuhan Barang/jasa untuk mendapatkan hasil yang efektif dan efisien"
+        },
+        {
+          "key": "d",
+          "text": "strategi Pengadaan Barang/Jasa dengan menggabungkan kebutuhan Barang/jasa untuk mendapatkan hasil yang sesuai etika PBJ"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "original_text": "Dalam penyusunan Struktur Organisasi UKPBJ terdiri dari…..bidang",
+      "text": "Dalam penyusunan Struktur Organisasi UKPBJ terdiri dari…..bidang",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "4 bidang"
+        },
+        {
+          "key": "b",
+          "text": "3 bidang"
+        },
+        {
+          "key": "c",
+          "text": "2 bidang"
+        },
+        {
+          "key": "d",
+          "text": "1 bidang"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "original_text": "Siapa yang berwenang membentuk UKPBJ  di lingkungan pemerintah daerah",
+      "text": "Siapa yang berwenang membentuk UKPBJ  di lingkungan pemerintah daerah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kepala Daerah"
+        },
+        {
+          "key": "b",
+          "text": "Menteri"
+        },
+        {
+          "key": "c",
+          "text": "Kepala Lembaga"
+        },
+        {
+          "key": "d",
+          "text": "LKPP"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "original_text": "Jika 2 bidang yaitu  Bidang yang melaksanakan tugas dan fungsi pembinaan SDM dan kelembagaan PBJ dan Bidang yang melaksanakan tugas dan fungsi pelaksanaan pendampingan, konsultasi dan/atau bimbingan teknis PBJ digabung menjadi 1 bidang, maka apa nama bidang gabungannya ?",
+      "text": "Jika 2 bidang yaitu  Bidang yang melaksanakan tugas dan fungsi pembinaan SDM dan kelembagaan PBJ dan Bidang yang melaksanakan tugas dan fungsi pelaksanaan pendampingan, konsultasi dan/atau bimbingan teknis PBJ digabung menjadi 1 bidang, maka apa nama bidang gabungannya ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Bidang Pembinaan dan Advokasi PBJ"
+        },
+        {
+          "key": "b",
+          "text": "Bidang Pemilihan dan advokasi"
+        },
+        {
+          "key": "c",
+          "text": "Bidang Jabatan Fungsional"
+        },
+        {
+          "key": "d",
+          "text": "Bidang komptensi pokja"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "original_text": "Hal-hal yang harus dibahas dalam reviu dokumen persiapan pengadaan dari PPK adalah",
+      "text": "Hal-hal yang harus dibahas dalam reviu dokumen persiapan pengadaan dari PPK adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pengumuman RUP"
+        },
+        {
+          "key": "b",
+          "text": "Sertifikat Kompetensi PPK"
+        },
+        {
+          "key": "c",
+          "text": "Spesifikasi teknis/KAK"
+        },
+        {
+          "key": "d",
+          "text": "Rekomendasi APIP"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "original_text": "Pada saat dilakukan reviu dokumen persiapan ditemukan adanya data HPS yang tidak lengkap, apa yang dilakukan oleh pokja pemilihan ?",
+      "text": "Pada saat dilakukan reviu dokumen persiapan ditemukan adanya data HPS yang tidak lengkap, apa yang dilakukan oleh pokja pemilihan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Memperbaiki HPS"
+        },
+        {
+          "key": "b",
+          "text": "Meminta PPK memperbaiki HPS"
+        },
+        {
+          "key": "c",
+          "text": "Meminta PPK membatalkan tender"
+        },
+        {
+          "key": "d",
+          "text": "Meminta rekomendasi PA/KPA"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "original_text": "Hal-hal yang TIDAK dibahas dalam reviu dokumen persiapan pengadaan dari PPK adalah",
+      "text": "Hal-hal yang TIDAK dibahas dalam reviu dokumen persiapan pengadaan dari PPK adalah",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "SK PA/KPA"
+        },
+        {
+          "key": "b",
+          "text": "Spesifikasi teknis"
+        },
+        {
+          "key": "c",
+          "text": "HPS"
+        },
+        {
+          "key": "d",
+          "text": "Analisa pasar"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "original_text": "Apa tujuan pemberian penjelasan tender ?",
+      "text": "Apa tujuan pemberian penjelasan tender ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Mengetahui seberapa besar minat calon penyedia"
+        },
+        {
+          "key": "b",
+          "text": "Mengetahui keinginan penyedia barang/jasa"
+        },
+        {
+          "key": "c",
+          "text": "Menyerap aspirasi para pihak yang terlibat dalam pemilihan"
+        },
+        {
+          "key": "d",
+          "text": "Menjelaskan kewajaran nilai penawaran"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "original_text": "Pokja pemilihan akan pelaksanakan seleksi jasa konsultan badan usaha pekerjaan studi kelayakan pembangunan rumah sakit umum daerah dengan nilai HPS Rp. 2 miliar.  Apa metode kualifikasi yang digunakan untuk pekerjaan tersebut ?",
+      "text": "Pokja pemilihan akan pelaksanakan seleksi jasa konsultan badan usaha pekerjaan studi kelayakan pembangunan rumah sakit umum daerah dengan nilai HPS Rp. 2 miliar.  Apa metode kualifikasi yang digunakan untuk pekerjaan tersebut ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Prakualifikasi"
+        },
+        {
+          "key": "b",
+          "text": "Pascakualifikasi"
+        },
+        {
+          "key": "c",
+          "text": "Pembobotan"
+        },
+        {
+          "key": "d",
+          "text": "Sistem gugur"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "original_text": "Pokja Pemilihan UKPBJ kota A akan melaksanakan  pembangunan unit pengolahan limbah plastik menjadi bahan bakar senilai Rp. 900 miliar. Pekerjaan tersebut masuk kategori pekerjaan kompleks. Apa metode pemilihan yang dapat di pilih oleh pokja ?",
+      "text": "Pokja Pemilihan UKPBJ kota A akan melaksanakan  pembangunan unit pengolahan limbah plastik menjadi bahan bakar senilai Rp. 900 miliar. Pekerjaan tersebut masuk kategori pekerjaan kompleks. Apa metode pemilihan yang dapat di pilih oleh pokja ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Epurchasing"
+        },
+        {
+          "key": "b",
+          "text": "Pengadaan langsung"
+        },
+        {
+          "key": "c",
+          "text": "Penunjukan langsung"
+        },
+        {
+          "key": "d",
+          "text": "Tender"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "original_text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan perorangan desain interior dengan nilai HPS Rp. 150 juta. Apa metode evaluasi jasa konsultan yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan perorangan desain interior dengan nilai HPS Rp. 150 juta. Apa metode evaluasi jasa konsultan yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kualitas dan biaya"
+        },
+        {
+          "key": "b",
+          "text": "Pagu Anggaran"
+        },
+        {
+          "key": "c",
+          "text": "Kualitas"
+        },
+        {
+          "key": "d",
+          "text": "Biaya Terendah"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "original_text": "Pokja pemilihan akan melaksanakan tender pekerjaan terintegrasi pembangunan pembangkit listrik dari panas bumi dengan nilai paket Rp. 500 miliar. Apa metode penyampaian penawaran yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan tender pekerjaan terintegrasi pembangunan pembangkit listrik dari panas bumi dengan nilai paket Rp. 500 miliar. Apa metode penyampaian penawaran yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "1 file"
+        },
+        {
+          "key": "b",
+          "text": "2 file"
+        },
+        {
+          "key": "c",
+          "text": "2 tahap"
+        },
+        {
+          "key": "d",
+          "text": "2 sampul"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "original_text": "Dinas Pendidikan Kota A akan melaksanakan pengadaan komputer  sebanyak 100 unit  dengan pagu anggaran sebesar Rp. 1,5 miliar. Hasil analisa pasar di temukan komputer yang di butuhkan ada di katalog nasional. Apa metode pemilihan yang dapat di pilih ?",
+      "text": "Dinas Pendidikan Kota A akan melaksanakan pengadaan komputer  sebanyak 100 unit  dengan pagu anggaran sebesar Rp. 1,5 miliar. Hasil analisa pasar di temukan komputer yang di butuhkan ada di katalog nasional. Apa metode pemilihan yang dapat di pilih ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Epurchasing"
+        },
+        {
+          "key": "b",
+          "text": "Pengadaan langsung"
+        },
+        {
+          "key": "c",
+          "text": "Tender cepat"
+        },
+        {
+          "key": "d",
+          "text": "Tender"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "original_text": "Pokja pemilihan melaksanakan pekerjaan terintegrasi dengan nilai pagu anggaran sebesar Rp. 200 miliar dengan masa pelaksanaan selama 2 tahun. Dalam dokumen pemilihan ditetapkan menggunakan metode evaluasi sistem nilai. Bagaimana pembobotan yang benar?",
+      "text": "Pokja pemilihan melaksanakan pekerjaan terintegrasi dengan nilai pagu anggaran sebesar Rp. 200 miliar dengan masa pelaksanaan selama 2 tahun. Dalam dokumen pemilihan ditetapkan menggunakan metode evaluasi sistem nilai. Bagaimana pembobotan yang benar?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Teknis 60 % dan harga 40 %"
+        },
+        {
+          "key": "c",
+          "text": "Teknis 40 % dan harga 60 %"
+        },
+        {
+          "key": "d",
+          "text": "Teknis 30 % dan harga 70 %"
+        },
+        {
+          "key": "e",
+          "text": "Teknis 20 % dan harga 80 %"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "original_text": "Dinas Kesehatan kota A sedangkan melaksanakan pemilihan penyedia pekerjaan konstruksi pembangunan RSUD kota A dengan nilai HPS Rp. 50 miliar. Proses tender  pertama telah dilakukan oleh Pokja Pemilihan ternyata hasilnya gagal, kemudian pokja melakukan tender kedua dan hasilnya tidak ada penawaran yang masuk. Jika saudara sebagai anggota pokja pemilihan paket tender pembangunan RSUD Kota A diatas, apa yang akan saudara lakukan ?",
+      "text": "Dinas Kesehatan kota A sedangkan melaksanakan pemilihan penyedia pekerjaan konstruksi pembangunan RSUD kota A dengan nilai HPS Rp. 50 miliar. Proses tender  pertama telah dilakukan oleh Pokja Pemilihan ternyata hasilnya gagal, kemudian pokja melakukan tender kedua dan hasilnya tidak ada penawaran yang masuk. Jika saudara sebagai anggota pokja pemilihan paket tender pembangunan RSUD Kota A diatas, apa yang akan saudara lakukan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Mengusulkan agar dilakukan tender ulang karena jika penunjukan langsung sangat riskan jadi temuan auditor."
+        },
+        {
+          "key": "b",
+          "text": "Mengusulkan agar pokja pemilihan minta rekomendasi PA/KPA untuk penunjukan langsung"
+        },
+        {
+          "key": "c",
+          "text": "Mengusulkan kepada pokja melakukan penunjukan langsung karena tender ulang gagal"
+        },
+        {
+          "key": "d",
+          "text": "Mengusulkan kepada pokja pemilihan agar minta rekomendasi Aparat Pengawas Intern Pemerintah (APIP)"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "original_text": "Pokja pemilihan akan pelaksanakan tender pembangunan  kereta cepat senilai Rp. 50 Triliun.  Apa metode  penyampaian penawaran yang digunakan untuk pekerjaan tersebut ?",
+      "text": "Pokja pemilihan akan pelaksanakan tender pembangunan  kereta cepat senilai Rp. 50 Triliun.  Apa metode  penyampaian penawaran yang digunakan untuk pekerjaan tersebut ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "2 tahap"
+        },
+        {
+          "key": "b",
+          "text": "1 file"
+        },
+        {
+          "key": "c",
+          "text": "2 file"
+        },
+        {
+          "key": "d",
+          "text": "12 file dan 2 tahap"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "original_text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan perorangan desain interior dengan nilai HPS Rp. 150 juta. Apa metode pemilihan  jasa konsultan yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan perorangan desain interior dengan nilai HPS Rp. 150 juta. Apa metode pemilihan  jasa konsultan yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Penunjukan langsung"
+        },
+        {
+          "key": "b",
+          "text": "Pengadaan langsung"
+        },
+        {
+          "key": "c",
+          "text": "Seleksi"
+        },
+        {
+          "key": "d",
+          "text": "Seleksi terbatas"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "original_text": "Pokja pemilihan akan melaksanakan tender pengadaan  perlengkapan kantor senilai Rp. 1 miliar. Apa metode evaluasi yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan tender pengadaan  perlengkapan kantor senilai Rp. 1 miliar. Apa metode evaluasi yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Sistem nilai"
+        },
+        {
+          "key": "b",
+          "text": "Biaya selama umur ekonomis"
+        },
+        {
+          "key": "c",
+          "text": "Harga terendah"
+        },
+        {
+          "key": "d",
+          "text": "Pagu anggaran"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "original_text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan pengawasan dengan raung lingkup standar dan rutin  dengan nilai HPS Rp. 150 juta. Apa metode evaluasi jasa konsultan yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan seleksi jasa konsultan pengawasan dengan raung lingkup standar dan rutin  dengan nilai HPS Rp. 150 juta. Apa metode evaluasi jasa konsultan yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kualitas dan biaya"
+        },
+        {
+          "key": "b",
+          "text": "Pagu Anggaran"
+        },
+        {
+          "key": "c",
+          "text": "Kualitas"
+        },
+        {
+          "key": "d",
+          "text": "Biaya Terendah"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "original_text": "Pokja pemilihan akan melaksanakan tender pekerjaan pengadaan ATK dengan nilai paket Rp. 500 juta. Apa metode penyampaian penawaran yang paling tepat ?",
+      "text": "Pokja pemilihan akan melaksanakan tender pekerjaan pengadaan ATK dengan nilai paket Rp. 500 juta. Apa metode penyampaian penawaran yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "1 file"
+        },
+        {
+          "key": "b",
+          "text": "2 file"
+        },
+        {
+          "key": "c",
+          "text": "2 tahap"
+        },
+        {
+          "key": "d",
+          "text": "2 sampul"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "original_text": "Penyedia A sudah ditetapkan sebagai pemenang tender pengadaan alat kesehatan dan telah menyelesaikan pekerjaan tepat waktu sesuai spesifikasi teknis yang ditentukan dalam kontrak. Maka penyedia A termasuk…",
+      "text": "Penyedia A sudah ditetapkan sebagai pemenang tender pengadaan alat kesehatan dan telah menyelesaikan pekerjaan tepat waktu sesuai spesifikasi teknis yang ditentukan dalam kontrak. Maka penyedia A termasuk…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Spend analysis"
+        },
+        {
+          "key": "b",
+          "text": "Emergency supplier"
+        },
+        {
+          "key": "c",
+          "text": "Approved supplier"
+        },
+        {
+          "key": "d",
+          "text": "Preferred supplier"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "original_text": "Penyedia yang mampu dan sudah lulus daftar penyedia namun belum mendapatkan pekerjaan sehingga belum terbukti dapat melaksanakan kewajiban yang memuaskan di sebut…",
+      "text": "Penyedia yang mampu dan sudah lulus daftar penyedia namun belum mendapatkan pekerjaan sehingga belum terbukti dapat melaksanakan kewajiban yang memuaskan di sebut…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Approved supplier"
+        },
+        {
+          "key": "b",
+          "text": "Preferred supplier"
+        },
+        {
+          "key": "c",
+          "text": "Emergency supplier"
+        },
+        {
+          "key": "d",
+          "text": "Proven supplier"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "original_text": "Daftar Penyedia yang menjadi referensi untuk penangnan kondisi darurat di sebut…",
+      "text": "Daftar Penyedia yang menjadi referensi untuk penangnan kondisi darurat di sebut…",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Approved supplier"
+        },
+        {
+          "key": "b",
+          "text": "Preferred supplier"
+        },
+        {
+          "key": "c",
+          "text": "Emergency supplier"
+        },
+        {
+          "key": "d",
+          "text": "Proven supplier"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "original_text": "Aspek-aspek teknis yang TIDAK perlu dinegosiasi antara pokja pemilihan dengan wakil penyedia barang/jasa  pada pekerjaan jasa konsultansi adalah",
+      "text": "Aspek-aspek teknis yang TIDAK perlu dinegosiasi antara pokja pemilihan dengan wakil penyedia barang/jasa  pada pekerjaan jasa konsultansi adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Lingkup dan sasaran"
+        },
+        {
+          "key": "b",
+          "text": "Metode pelaksanaan"
+        },
+        {
+          "key": "c",
+          "text": "Jadwal penugasan"
+        },
+        {
+          "key": "d",
+          "text": "Metode evaluasi teknis"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "original_text": "Wakil penyedia yang dapat hadir dalam negosiasi jasa konsultan adalah",
+      "text": "Wakil penyedia yang dapat hadir dalam negosiasi jasa konsultan adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Tenaga ahli tetap"
+        },
+        {
+          "key": "b",
+          "text": "Tenaga ahli tidak tetap"
+        },
+        {
+          "key": "c",
+          "text": "Direktur penyedia"
+        },
+        {
+          "key": "d",
+          "text": "Tim pendukung"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "original_text": "Apa tujuan negosiasi dengan penyedia jasa konsultansi ?",
+      "text": "Apa tujuan negosiasi dengan penyedia jasa konsultansi ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Meyakinkan kejelasan substansi teknis, metode, dan biaya"
+        },
+        {
+          "key": "b",
+          "text": "Memenuhi semua keinginan pimpinan instansi"
+        },
+        {
+          "key": "c",
+          "text": "Mendapatkan harga serendah rendahnya"
+        },
+        {
+          "key": "d",
+          "text": "Meningkatkan kentungan penyedia jasa konsultan"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "original_text": "Dinas sosial Kabupaten A akan melaksanakan pengadaan sembako untuk penanganan korban gempa bumi senilai Rp, 2 miliar dan sudah dinyatakan sebagai bencana daerah oleh pejabat setempat. Apa metode pemilihan yang di gunakan ?",
+      "text": "Dinas sosial Kabupaten A akan melaksanakan pengadaan sembako untuk penanganan korban gempa bumi senilai Rp, 2 miliar dan sudah dinyatakan sebagai bencana daerah oleh pejabat setempat. Apa metode pemilihan yang di gunakan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Penunjukan langsung"
+        },
+        {
+          "key": "b",
+          "text": "Penunjukan penyedia"
+        },
+        {
+          "key": "c",
+          "text": "Pengadaan langsung"
+        },
+        {
+          "key": "d",
+          "text": "Seleksi langsung"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "original_text": "Kementerian A akan mengadakan benda benda seni seperti lukisan dan patung senilai Rp. 2 miliar. Apa metode pemilihan yang di gunakan ?",
+      "text": "Kementerian A akan mengadakan benda benda seni seperti lukisan dan patung senilai Rp. 2 miliar. Apa metode pemilihan yang di gunakan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Tender"
+        },
+        {
+          "key": "b",
+          "text": "Epurchasing"
+        },
+        {
+          "key": "c",
+          "text": "Penunjukan langsung"
+        },
+        {
+          "key": "d",
+          "text": "Pengadaan di kecualikan"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "original_text": "RSUD kota akan melaksanakan pengadaan makan minum pasien senilai Rp. 1 miliar menggunakan dana BLUD. Apa pedoman pengadaan yang di ikuti ?",
+      "text": "RSUD kota akan melaksanakan pengadaan makan minum pasien senilai Rp. 1 miliar menggunakan dana BLUD. Apa pedoman pengadaan yang di ikuti ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Perpres 16/2018 berikut perubahannya"
+        },
+        {
+          "key": "b",
+          "text": "Pedoman PBJ yang di tetapkan kepala BLUD"
+        },
+        {
+          "key": "c",
+          "text": "Pedoman pengadaan darurat"
+        },
+        {
+          "key": "d",
+          "text": "Pedoman pengadaan di luar negeri"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "original_text": "Dinas Perumahan membutuhkan jasa konsultan perencanan gedung dengan nilai paket Rp. 1  miliar dimana pembayaran pekerjaan berdasarkan output yang di hasilkan. Apa jenis kontrak yang paling tepat ?",
+      "text": "Dinas Perumahan membutuhkan jasa konsultan perencanan gedung dengan nilai paket Rp. 1  miliar dimana pembayaran pekerjaan berdasarkan output yang di hasilkan. Apa jenis kontrak yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Biaya plus imbalan"
+        },
+        {
+          "key": "b",
+          "text": "Lumsum"
+        },
+        {
+          "key": "c",
+          "text": "Waktu penugasan"
+        },
+        {
+          "key": "d",
+          "text": "Kontrak payung"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "original_text": "Kementerian ESDM akan melaksanakan pembangunan pembangkit listrik tenaga air dengan paket Rp. 500 miliar. Penyedia pekerjaan tersebut harus memiliki kemampuan kerekayasaan, pengadaan dan pembangunan. Apa jenis kontrak yang paling tepat ?",
+      "text": "Kementerian ESDM akan melaksanakan pembangunan pembangkit listrik tenaga air dengan paket Rp. 500 miliar. Penyedia pekerjaan tersebut harus memiliki kemampuan kerekayasaan, pengadaan dan pembangunan. Apa jenis kontrak yang paling tepat ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Lumsum"
+        },
+        {
+          "key": "b",
+          "text": "Putar kunci"
+        },
+        {
+          "key": "c",
+          "text": "Kontrak payung"
+        },
+        {
+          "key": "d",
+          "text": "Waktu penugasan"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "original_text": "Pada tender pekerjaan konstruksi dengan pagu anggaran Rp. 1,1 miliar dan nilai HPS Rp. 1 miliar, penawaran pemenang sebesar Rp. 750 juta. Berapa nilai jaminan pelaksanaan yang harus diserahkan sebelum penandatanganan kontrak ?",
+      "text": "Pada tender pekerjaan konstruksi dengan pagu anggaran Rp. 1,1 miliar dan nilai HPS Rp. 1 miliar, penawaran pemenang sebesar Rp. 750 juta. Berapa nilai jaminan pelaksanaan yang harus diserahkan sebelum penandatanganan kontrak ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "5 % dari nilai kontrak"
+        },
+        {
+          "key": "b",
+          "text": "5 % dari nilai HPS"
+        },
+        {
+          "key": "c",
+          "text": "5 % dari pagu anggaran"
+        },
+        {
+          "key": "d",
+          "text": "5 % dari sisa pagu anggaran"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "original_text": "Bentuk kontrak untuk pembelian ATK senilai Rp. 15 juta adalah",
+      "text": "Bentuk kontrak untuk pembelian ATK senilai Rp. 15 juta adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kuitansi"
+        },
+        {
+          "key": "b",
+          "text": "Nota pembelian"
+        },
+        {
+          "key": "c",
+          "text": "Struk"
+        },
+        {
+          "key": "d",
+          "text": "SPK"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "original_text": "PPK puskesmas akan melaksanakan pengadaan makan minum pasien senilai Rp. 175 juta rupiah dengan bentuk kontrak berupa SPK.  Berapa nilai minimal uang muka yang dapat diberikan ?",
+      "text": "PPK puskesmas akan melaksanakan pengadaan makan minum pasien senilai Rp. 175 juta rupiah dengan bentuk kontrak berupa SPK.  Berapa nilai minimal uang muka yang dapat diberikan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "50 %"
+        },
+        {
+          "key": "b",
+          "text": "30 %"
+        },
+        {
+          "key": "c",
+          "text": "20 %"
+        },
+        {
+          "key": "d",
+          "text": "15 %"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "original_text": "PPK Dinas Pendidikan melaksanakan pengadaan pekerjaan renovasi ruang pertemuan nilai HPS Rp. 1 miliar.  Hasil evaluasi penawaran menghasilkan pemenang PT. A dengan nilai penawaran Rp. 900 juta.  Berapa nilai jaminan pelaksanaan yang wajib di serahkan sebelum penandatanganan kontrak ?",
+      "text": "PPK Dinas Pendidikan melaksanakan pengadaan pekerjaan renovasi ruang pertemuan nilai HPS Rp. 1 miliar.  Hasil evaluasi penawaran menghasilkan pemenang PT. A dengan nilai penawaran Rp. 900 juta.  Berapa nilai jaminan pelaksanaan yang wajib di serahkan sebelum penandatanganan kontrak ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "5 % dari nilai kontrak"
+        },
+        {
+          "key": "b",
+          "text": "5 % dari nilai HPS"
+        },
+        {
+          "key": "c",
+          "text": "5 % dari pagu anggaran"
+        },
+        {
+          "key": "d",
+          "text": "5 % dari RAB"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "original_text": "PPK dinas kesehatan sedang melaksanakan kontrak tahun jamak pembangunan gedung RSUD KOTA A senilai Rp. 100 miliar dengan masa pelaksanaan selama 2 tahun dengan jenis kontrak harga satuan. Kapan penyedia dapat diberikan penyesuaian harga ?",
+      "text": "PPK dinas kesehatan sedang melaksanakan kontrak tahun jamak pembangunan gedung RSUD KOTA A senilai Rp. 100 miliar dengan masa pelaksanaan selama 2 tahun dengan jenis kontrak harga satuan. Kapan penyedia dapat diberikan penyesuaian harga ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pada bulan ke 13 sejak  penandatanganan kontrak"
+        },
+        {
+          "key": "b",
+          "text": "Pada bulan ke 13 sejak penawaran penyedia"
+        },
+        {
+          "key": "c",
+          "text": "Pada bulan ke 13 sejak pengumuman tender"
+        },
+        {
+          "key": "d",
+          "text": "Pada bulan ke 13 sejak pengesahan dokumen anggaran"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "original_text": "PPK dinas kesehatan akan melaksanakan pengadaan mobil ambulance seniali Rp. 600 juta melalui epurchasing.  Apa bentuk kontraknya ?",
+      "text": "PPK dinas kesehatan akan melaksanakan pengadaan mobil ambulance seniali Rp. 600 juta melalui epurchasing.  Apa bentuk kontraknya ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Surat Pesanan"
+        },
+        {
+          "key": "b",
+          "text": "SPK"
+        },
+        {
+          "key": "c",
+          "text": "Kontrak"
+        },
+        {
+          "key": "d",
+          "text": "Kuitansi"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "original_text": "Pihak yang TIDAK dapat menjadi pejabat penandatangan kontrak adalah",
+      "text": "Pihak yang TIDAK dapat menjadi pejabat penandatangan kontrak adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "PA"
+        },
+        {
+          "key": "b",
+          "text": "KPA"
+        },
+        {
+          "key": "c",
+          "text": "PPK"
+        },
+        {
+          "key": "d",
+          "text": "Pejabat Pengadaan"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "original_text": "Dinas Kesehatan Kota A melaksanaan pengadaan alat radiologi senilai Rp. 20 miliar melalui epurchasing. Dalam melaksanakan pemeriksaan dan pengujian alat radiologi tersebut PPK dapat di bantu oleh….",
+      "text": "Dinas Kesehatan Kota A melaksanaan pengadaan alat radiologi senilai Rp. 20 miliar melalui epurchasing. Dalam melaksanakan pemeriksaan dan pengujian alat radiologi tersebut PPK dapat di bantu oleh….",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "PA"
+        },
+        {
+          "key": "b",
+          "text": "KPA"
+        },
+        {
+          "key": "c",
+          "text": "APIP"
+        },
+        {
+          "key": "d",
+          "text": "Tim ahli"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "original_text": "Saudara diangkat oleh PPK sebagai tim pendukung paket pekerjaan pembangunan gedung RSUD kota A senilai Rp. 50 miliar. Apa yang akan saudara lakukan ?",
+      "text": "Saudara diangkat oleh PPK sebagai tim pendukung paket pekerjaan pembangunan gedung RSUD kota A senilai Rp. 50 miliar. Apa yang akan saudara lakukan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Menyusun spesifikasi teknis"
+        },
+        {
+          "key": "b",
+          "text": "Membantu administrasi/keuangan"
+        },
+        {
+          "key": "c",
+          "text": "Membantu menyusun HPS"
+        },
+        {
+          "key": "d",
+          "text": "Membantu menyiapkan rancangan kontrak"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "original_text": "PPK  Kementerian A sedang berkontrak pelaksanaan pengadaan komputer sebanyak 20 unit dengan nilai kontrak Rp. 300 juta. Pada saat pelaksanaan penyedia menginformasikan bahwa spesifikasi teknis laptop yang tertulis dalam kontrak sudah diskontinu dengan melampirkan surat keterangan dari pemegang merk resmi. Apa langkah yang dapat dilakukan oleh PPK?",
+      "text": "PPK  Kementerian A sedang berkontrak pelaksanaan pengadaan komputer sebanyak 20 unit dengan nilai kontrak Rp. 300 juta. Pada saat pelaksanaan penyedia menginformasikan bahwa spesifikasi teknis laptop yang tertulis dalam kontrak sudah diskontinu dengan melampirkan surat keterangan dari pemegang merk resmi. Apa langkah yang dapat dilakukan oleh PPK?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Addendum kontrak"
+        },
+        {
+          "key": "b",
+          "text": "Pemutusan kontrak"
+        },
+        {
+          "key": "c",
+          "text": "surat peringatan"
+        },
+        {
+          "key": "d",
+          "text": "Kontrak kritis"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "original_text": "PPK pada suatu pekerjaan konstruksi dihadapkan pada situasi yang sulit. Pekerjaan ini sangat dibutuhkan masyarakat, namun penyedia terlambat melaksanakan pekerjaan dan telah 2 (dua) kali mendapat Surat Peringatan. Waktu pelaksanaan telah terpakai 50 % dan progres baru mencapai 35%. Apa tindakan PPK yang paling tepat?",
+      "text": "PPK pada suatu pekerjaan konstruksi dihadapkan pada situasi yang sulit. Pekerjaan ini sangat dibutuhkan masyarakat, namun penyedia terlambat melaksanakan pekerjaan dan telah 2 (dua) kali mendapat Surat Peringatan. Waktu pelaksanaan telah terpakai 50 % dan progres baru mencapai 35%. Apa tindakan PPK yang paling tepat?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Melakukan pemutusan kontrak dan menunjuk penyedia lain untuk meneruskan pekerjaan yang tersisa"
+        },
+        {
+          "key": "b",
+          "text": "Melakukan pembayaran terhadap semua material yang ada dilapangan karena penyedia kekurangan dana untuk meneruskan pekerjaan"
+        },
+        {
+          "key": "c",
+          "text": "Memberi peringatan ketiga untuk mengejar keterlambatan dan bila tidak berhasil, melakukan pemutusan kontrak."
+        },
+        {
+          "key": "d",
+          "text": "Memberi kesempatan untuk menyelesaikan pekerjaan sampai akhir kontrak."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "original_text": "Apa yang harus dilakukan oleh PPK sebelum dilakukan serah terima hasil pekerjaan ?",
+      "text": "Apa yang harus dilakukan oleh PPK sebelum dilakukan serah terima hasil pekerjaan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Meminta rekomendasi Aparat Pengawas Intern Pemerintah ( APIP)"
+        },
+        {
+          "key": "b",
+          "text": "Menugaskan tenaga ahli untuk melakukan pemeriksaan dan pengujian"
+        },
+        {
+          "key": "c",
+          "text": "Meminta surat pernyataan dari Penyedia Barang/Jasa"
+        },
+        {
+          "key": "d",
+          "text": "Menyerahkan sepenuhnya kepada pengguna akhir"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "original_text": "Jika hasil pemeriksaan dan pengujian barang dinyatakan tidak sesuai dengan kontrak. Apa yang harus dilakukan oleh PPK ?",
+      "text": "Jika hasil pemeriksaan dan pengujian barang dinyatakan tidak sesuai dengan kontrak. Apa yang harus dilakukan oleh PPK ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Menandatangani berita acara serah terima"
+        },
+        {
+          "key": "b",
+          "text": "Meminta penyedia memperbaiki atau mengganti"
+        },
+        {
+          "key": "c",
+          "text": "Membatalkan kontrak"
+        },
+        {
+          "key": "d",
+          "text": "Melakukan addendum kontrak"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "original_text": "Setelah penyedia menyelesaikan pekerjaan maka dilakukan penilaian kinerja penyedia. Salah satu komponen penilaian kinerja penyedia ?",
+      "text": "Setelah penyedia menyelesaikan pekerjaan maka dilakukan penilaian kinerja penyedia. Salah satu komponen penilaian kinerja penyedia ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kemampuan keuangan"
+        },
+        {
+          "key": "b",
+          "text": "Pengalaman  penyedia"
+        },
+        {
+          "key": "c",
+          "text": "Kualitas dan kuantitas pekerjaan"
+        },
+        {
+          "key": "d",
+          "text": "Pelayanan  yang di gunakan"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "original_text": "Siapa yang berwenang melakukan penilian kinerja penyedia ?",
+      "text": "Siapa yang berwenang melakukan penilian kinerja penyedia ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "UKPBJ"
+        },
+        {
+          "key": "b",
+          "text": "Pokja Pemilihan"
+        },
+        {
+          "key": "c",
+          "text": "PPK"
+        },
+        {
+          "key": "d",
+          "text": "KPA"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "original_text": "Dinas PUPR Kota A melaksananakan pengadaan ATK pada tanggal 5 juni 2023 dengan nilai pekerjaan Rp. 5 juta (harga belum termasuk PPN 11 %). Pemilihan dilaksanakan melalui pengadaan langsung ke Toko ATK “ BERKAH”    yang lokasinya dekat dengan Kantor Dinas PUPR tersebut dengan bentuk kontrak berupa nota pembelian sebagai berikut :\nSiapa Nama Penyedia di tulis dalam bukti pembelian diatas ( a) ?",
+      "text": "Dinas PUPR Kota A melaksananakan pengadaan ATK pada tanggal 5 juni 2023 dengan nilai pekerjaan Rp. 5 juta (harga belum termasuk PPN 11 %). Pemilihan dilaksanakan melalui pengadaan langsung ke Toko ATK “ BERKAH”    yang lokasinya dekat dengan Kantor Dinas PUPR tersebut dengan bentuk kontrak berupa nota pembelian sebagai berikut :\nSiapa Nama Penyedia di tulis dalam bukti pembelian diatas ( a) ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Toko ATK Berkah"
+        },
+        {
+          "key": "b",
+          "text": "PPK Dinas PUPR"
+        },
+        {
+          "key": "c",
+          "text": "Pejabat Pengadaan"
+        },
+        {
+          "key": "d",
+          "text": "Bendahara"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "original_text": "Dinas PUPR Kota A melaksananakan pengadaan ATK pada tanggal 5 juni 2023 dengan nilai pekerjaan Rp. 5 juta (harga belum termasuk PPN 11 %). Pemilihan dilaksanakan melalui pengadaan langsung ke Toko ATK “ BERKAH”  yang lokasinya dekat dengan Kantor Dinas PUPR tersebut dengan bentuk kontrak berupa nota pembelian. Berapa nilai total ang di tulis dalam bukti pembelian diatas ?",
+      "text": "Dinas PUPR Kota A melaksananakan pengadaan ATK pada tanggal 5 juni 2023 dengan nilai pekerjaan Rp. 5 juta (harga belum termasuk PPN 11 %). Pemilihan dilaksanakan melalui pengadaan langsung ke Toko ATK “ BERKAH”  yang lokasinya dekat dengan Kantor Dinas PUPR tersebut dengan bentuk kontrak berupa nota pembelian. Berapa nilai total ang di tulis dalam bukti pembelian diatas ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "5.000.000"
+        },
+        {
+          "key": "b",
+          "text": "5.550.000"
+        },
+        {
+          "key": "c",
+          "text": "5.600.000"
+        },
+        {
+          "key": "d",
+          "text": "6.000.000"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "original_text": "Apa resiko yang dapat terjadi dalam penyusunan spesifikasi teknis ?",
+      "text": "Apa resiko yang dapat terjadi dalam penyusunan spesifikasi teknis ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Spesifikasi teknis tidak tersedia di pasaran"
+        },
+        {
+          "key": "b",
+          "text": "Spesifikasi teknis terlalu lengkap"
+        },
+        {
+          "key": "c",
+          "text": "Spesfikasi teknis mengutamakan PDN"
+        },
+        {
+          "key": "d",
+          "text": "Spesifikasi teknis tidak sesuai RAB"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "original_text": "Data/informasi  yang dapat digunakan dalam menyusun spesifikasi teknis adalah",
+      "text": "Data/informasi  yang dapat digunakan dalam menyusun spesifikasi teknis adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Bosur/katalog produk"
+        },
+        {
+          "key": "b",
+          "text": "Dokumen spesifikasi teknis dari pengguna"
+        },
+        {
+          "key": "c",
+          "text": "Dokumen hasil survey"
+        },
+        {
+          "key": "d",
+          "text": "Data hasil identifikasi kebutuhan"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "original_text": "Pada RUP TA 2025 Dinas Kesehatan terdapat beberapa paket pekerjaan antara lain :\nI.          Pengadaan lab komputer untuk uji kompetensi tenaga kesehatan\nII.        Kajian strategi pencegahan stunting\nIII.       Pengadaan alat kesehatan\nIV.      Pelatihan komptensi tenaga kesehatan\nDari 4 kegiatan diatas, mana kegiatan yang dapat dilaksanakan melalui Swakelola ?",
+      "text": "Pada RUP TA 2025 Dinas Kesehatan terdapat beberapa paket pekerjaan antara lain :\nI.          Pengadaan lab komputer untuk uji kompetensi tenaga kesehatan\nII.        Kajian strategi pencegahan stunting\nIII.       Pengadaan alat kesehatan\nIV.      Pelatihan komptensi tenaga kesehatan\nDari 4 kegiatan diatas, mana kegiatan yang dapat dilaksanakan melalui Swakelola ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "I dan II"
+        },
+        {
+          "key": "b",
+          "text": "II dan IV"
+        },
+        {
+          "key": "c",
+          "text": "I dan IV"
+        },
+        {
+          "key": "d",
+          "text": "II dan III"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "original_text": "Saudara diangkat oleh KPA sebagai anggota tim persiapan Swaskelola Tipe II antara Kementrian A dengan perguruan tinggi negeri. Apa yang akan saudara lakukan ?",
+      "text": "Saudara diangkat oleh KPA sebagai anggota tim persiapan Swaskelola Tipe II antara Kementrian A dengan perguruan tinggi negeri. Apa yang akan saudara lakukan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Menyusun jadwal pemilihan penyedia"
+        },
+        {
+          "key": "b",
+          "text": "Menyusun rencana kegiatan"
+        },
+        {
+          "key": "c",
+          "text": "Menyusun dokumen pemilihan"
+        },
+        {
+          "key": "d",
+          "text": "Menyusun dokumen kualifikasi"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "original_text": "Pada pelaksanaan swalekola ada tim penyelenggara swakelola yang terdiri dari persiapan, pelaksana dan pengawas. Siapa yang menetapkan tim penyelengara swakelola  antara Dinas Kesehatan dengan  Ikatan Dokter Indonesia (IDI) ?",
+      "text": "Pada pelaksanaan swalekola ada tim penyelenggara swakelola yang terdiri dari persiapan, pelaksana dan pengawas. Siapa yang menetapkan tim penyelengara swakelola  antara Dinas Kesehatan dengan  Ikatan Dokter Indonesia (IDI) ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Tim persiapan, pelaksana dan pengadaan oleh PA/KPA Dinas Kesehatan"
+        },
+        {
+          "key": "b",
+          "text": "Tim persiapan dan pengawas oleh PA/KPA Dinas Kesehatan, pelaksana oleh pimpinan IDI"
+        },
+        {
+          "key": "c",
+          "text": "Tim persiapan dan pengawas oleh PA/KPA Dinas Kesehatan, pelaksana oleh pimpinan Dinas Kesehatan"
+        },
+        {
+          "key": "d",
+          "text": "Tim persiapan, pelaksana dan pengawas oleh pimpinan IDI"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "original_text": "Dinas parekaraf akan melaksanakan inhouse training dimana pelaksanaaanya oleh pegawai dinas parekraft. Jika dalam pelaksanaan memerlukan tenaga ahli. Berapa maksimal tenaga ahli dari luar yang dapat dilibatkan ?",
+      "text": "Dinas parekaraf akan melaksanakan inhouse training dimana pelaksanaaanya oleh pegawai dinas parekraft. Jika dalam pelaksanaan memerlukan tenaga ahli. Berapa maksimal tenaga ahli dari luar yang dapat dilibatkan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "20 %"
+        },
+        {
+          "key": "b",
+          "text": "30 %"
+        },
+        {
+          "key": "c",
+          "text": "40 %"
+        },
+        {
+          "key": "d",
+          "text": "50 %"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "original_text": "Kementerian kesehatan kerjasama pengembangan obat dengan Badan Riset dan Inovasi Nasional (BRIN) dengan nilai Kontrak Rp 1 militar. Jika dalam kontrak tersebut ada pengadaan barang.jasa maka wajib mengikuti ketentuan….",
+      "text": "Kementerian kesehatan kerjasama pengembangan obat dengan Badan Riset dan Inovasi Nasional (BRIN) dengan nilai Kontrak Rp 1 militar. Jika dalam kontrak tersebut ada pengadaan barang.jasa maka wajib mengikuti ketentuan….",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Pengadaan barang/jasa pemerintah"
+        },
+        {
+          "key": "b",
+          "text": "Tidak wajib mengikuti pengadaan barang/jasa pemerintah"
+        },
+        {
+          "key": "c",
+          "text": "Mengikuti peraturan pimpinan pelaksana pekerjaan"
+        },
+        {
+          "key": "d",
+          "text": "Sesuai kesepakatan dalam kontrak swakelola"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "original_text": "Kegiatan yang dilaksanakan melalui Swakelola oleh Kementerian pendidikan dan kebudayaan adalah",
+      "text": "Kegiatan yang dilaksanakan melalui Swakelola oleh Kementerian pendidikan dan kebudayaan adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "pengadaan alat peraga pendidikan"
+        },
+        {
+          "key": "b",
+          "text": "Jasa konsultan perencanaan gedung sekolah"
+        },
+        {
+          "key": "c",
+          "text": "Kajian strategi peningkatan mutu pendidikan"
+        },
+        {
+          "key": "d",
+          "text": "Pengadaan meja dan kursi sekolah"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "original_text": "Dalam pelaksanaan kontrak Swakelola pembangun jalan desa terjadi perubahan kondisi lapangan  sehingga ada perbedaan  dimensi jalan antara kontrak dengan kondisi lapangan. Kondisi ini telah dilaporkan oleh tim pengawas kepada PPK. Apa yang harus dilakukan oleh PPK ?",
+      "text": "Dalam pelaksanaan kontrak Swakelola pembangun jalan desa terjadi perubahan kondisi lapangan  sehingga ada perbedaan  dimensi jalan antara kontrak dengan kondisi lapangan. Kondisi ini telah dilaporkan oleh tim pengawas kepada PPK. Apa yang harus dilakukan oleh PPK ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Melakukan addendum kontrak"
+        },
+        {
+          "key": "b",
+          "text": "Melakukan pemutusan kontrak"
+        },
+        {
+          "key": "c",
+          "text": "Memberikan surat peringatan"
+        },
+        {
+          "key": "d",
+          "text": "Melakukan rapat pembuktian"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "original_text": "Saudara diangkat oleh KPA sebagai tim pengawas pelaksanaan swakelola  dengan Perhimpunan Dokter Hewan Indonesia. Apa yang akan saudara lakukan ?",
+      "text": "Saudara diangkat oleh KPA sebagai tim pengawas pelaksanaan swakelola  dengan Perhimpunan Dokter Hewan Indonesia. Apa yang akan saudara lakukan ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Mengawasi administrasi, teknis dan harga"
+        },
+        {
+          "key": "b",
+          "text": "Mengawasi administri, pengadaan dan harga"
+        },
+        {
+          "key": "c",
+          "text": "Mengawasi administrasi, teknis dan keuangan"
+        },
+        {
+          "key": "d",
+          "text": "Mengawasi prestasi pekerjaan dan harga"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "original_text": "Tahapan pengadaan melalui swakelola yang harus di awasi oleh tim pengawas adalah",
+      "text": "Tahapan pengadaan melalui swakelola yang harus di awasi oleh tim pengawas adalah",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Perencanaan sampai dengan serah terima"
+        },
+        {
+          "key": "b",
+          "text": "Identifikasi kebutuhan sampai dengan serah terima"
+        },
+        {
+          "key": "c",
+          "text": "Pelaksanaan sampai dengan serah terima"
+        },
+        {
+          "key": "d",
+          "text": "Persiapan sampai dengan serah terima"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "original_text": "Apa resiko  yang dapat  terjadi dalam penetapan tipe Swakelola ?",
+      "text": "Apa resiko  yang dapat  terjadi dalam penetapan tipe Swakelola ?",
+      "points": 1,
+      "required": false,
+      "options": [
+        {
+          "key": "a",
+          "text": "Kesalahan penetapan tipe swakelola"
+        },
+        {
+          "key": "b",
+          "text": "Hasil pekerjaan tidak dapat di manfaatkan"
+        },
+        {
+          "key": "c",
+          "text": "Harus dilakukan perubahan kontrak"
+        },
+        {
+          "key": "d",
+          "text": "Dapat terjadi pemutusan kontrak"
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "original_text": "Sumber informasi yang diperlukan oleh PPK sebelum di lakukan serah terima hasil pekerjaan Swakelola ?",
+      "text": "Sumber informasi yang diperlukan oleh PPK sebelum di lakukan serah terima hasil pekerjaan Swakelola ?",
+      "points": 1,
+      "required": true,
+      "options": [
+        {
+          "key": "a",
+          "text": "Berita acara pemeriksaan oleh tim pengawas"
+        },
+        {
+          "key": "b",
+          "text": "Data pengawasan kualitas dan kuantitas pekerjaan"
+        },
+        {
+          "key": "c",
+          "text": "Data pelayanan purnajual dari pelaksana Swakelola"
+        },
+        {
+          "key": "d",
+          "text": "Data Pengawasan kehadiran dan biaya"
+        }
+      ]
+    }
+  ]
+}
