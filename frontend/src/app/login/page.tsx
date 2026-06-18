@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { GraduationCap, Eye, EyeOff, ArrowRight, Mail, Lock, CheckCircle2 } from 'lucide-react';
@@ -10,7 +10,7 @@ import toast from 'react-hot-toast';
 import { useSearchParams } from 'next/navigation';
 import api from '@/lib/axios';
 
-export default function LoginPage() {
+function LoginContent() {
   const searchParams = useSearchParams();
   const isVerified = searchParams.get('verified') === '1';
 
@@ -172,5 +172,13 @@ export default function LoginPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-slate-50 flex items-center justify-center">Loading...</div>}>
+      <LoginContent />
+    </Suspense>
   );
 }
