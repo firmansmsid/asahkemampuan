@@ -110,7 +110,7 @@ function RegisterContent() {
 
   // Success state
   if (isSuccess) {
-    const isPremiumPaket = selectedPaket && !selectedPaket.is_gratis && selectedPaket.harga > 0;
+    const isPremiumPaket = selectedPaket && !selectedPaket.is_gratis && Number(selectedPaket.harga) > 0;
     const isPembuatSoal = form.role === 'pembuat_soal';
 
     return (

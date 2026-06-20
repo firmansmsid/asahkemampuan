@@ -63,7 +63,9 @@
 
             @if(!$paket->is_gratis && $paket->harga > 0)
             <div class="alert">
-                <p>💳 <strong>Pembayaran diperlukan.</strong> Setelah akun disetujui admin, silakan login dan lakukan pembayaran melalui halaman paket untuk mendapatkan akses.</p>
+                <p>💳 <strong>Instruksi Pembayaran:</strong> Silakan lakukan pembayaran sesuai harga paket ke rekening/nomor DANA berikut:</p>
+                <p style="text-align: center; font-size: 16px; font-weight: bold; margin: 10px 0; padding: 10px; background: #fed7aa; border-radius: 8px;">DANA: 081250069590</p>
+                <p>Akun dan akses paket Anda akan diaktifkan oleh admin setelah pembayaran diverifikasi.</p>
             </div>
             @else
             <div class="alert">
