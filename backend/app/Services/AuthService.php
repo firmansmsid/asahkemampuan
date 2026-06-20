@@ -21,34 +21,20 @@ class AuthService
 
         $role = $data['role'] ?? 'peserta';
 
-        // Option B: Auto approve peserta
-        if ($role === 'peserta') {
-            $autoApprove = true;
-        }
-
-        // Pembuat soal always requires admin approval
-        if ($role === 'pembuat_soal') {
-            $autoApprove = false;
-        }
+        // Auto approve disabled, always false
+        $autoApprove = false;
 
         $user = User::create([
             'name'        => $data['name'],
             'email'       => $data['email'],
             'password'    => bcrypt($data['password']),
             'role'        => $role,
-            'is_approved' => $autoApprove,
-            'approved_at' => $autoApprove ? now() : null,
+            'is_approved' => false,
+            'approved_at' => null,
             'referred_by' => $referrerId,
         ]);
 
-        // Kirim email verifikasi bawaan Laravel
-        $user->sendEmailVerificationNotification();
-
-        if ($role === 'pembuat_soal') {
-            $message = 'Pendaftaran sebagai Pembuat Soal berhasil. Silakan cek email Anda untuk verifikasi, lalu tunggu persetujuan admin.';
-        } else {
-            $message = 'Pendaftaran berhasil. Silakan cek email Anda untuk melakukan verifikasi akun.';
-        }
+        $message = 'Pendaftaran berhasil. Akun Anda sedang menunggu persetujuan admin.';
 
         return [
             'user'    => $user,
@@ -65,14 +51,6 @@ class AuthService
         }
 
         $user = Auth::user();
-
-        // Cek apakah email sudah diverifikasi
-        if (!$user->hasVerifiedEmail()) {
-            Auth::logout();
-            throw ValidationException::withMessages([
-                'email' => ['Email belum diverifikasi'], // Used by frontend to show resend button
-            ]);
-        }
 
         // Cek apakah akun sudah disetujui admin (jika role butuh approval)
         if (!$user->is_approved) {

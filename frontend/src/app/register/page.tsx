@@ -144,26 +144,26 @@ function RegisterContent() {
                   <p className="text-amber-800 text-sm font-medium">⏳ Status: Menunggu Persetujuan Admin</p>
                   <p className="text-amber-600 text-xs mt-1">Cek email <strong>{form.email}</strong> untuk detail pendaftaran.</p>
                 </div>
-                <Link href="/login" className="btn-md btn-primary w-full justify-center">
+                <a href="/login" className="btn-md btn-primary w-full justify-center flex items-center gap-2">
                   Kembali ke Login <ArrowRight className="w-4 h-4" />
-                </Link>
+                </a>
               </>
             ) : isPremiumPaket ? (
               <>
                 <p className="text-slate-500 text-sm mb-4 leading-relaxed">
-                  Akun Anda telah <strong>langsung aktif</strong>. Silakan login untuk melakukan pembayaran paket.
+                  Pendaftaran berhasil! Akun Anda sedang <strong>menunggu persetujuan admin</strong>.
                 </p>
                 <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-4 text-left">
-                  <p className="text-sm font-semibold text-amber-800 mb-1">📦 {selectedPaket.judul}</p>
+                  <p className="text-sm font-semibold text-amber-800 mb-1">📦 Paket: {selectedPaket.judul}</p>
                   <p className="text-lg font-bold text-amber-700">{formatRupiah(selectedPaket.harga)}</p>
-                  <p className="text-xs text-amber-600 mt-1">💳 Login dan lakukan pembayaran untuk mengakses paket</p>
+                  <p className="text-sm text-amber-800 mt-3 font-semibold">💳 Instruksi Pembayaran:</p>
+                  <p className="text-xs text-amber-700 mt-1">Silakan lakukan pembayaran sesuai harga paket ke rekening/nomor DANA berikut:</p>
+                  <p className="text-base font-bold text-amber-800 mt-1 bg-amber-100 p-2 rounded-lg text-center border border-amber-300">DANA: 081250069590</p>
+                  <p className="text-xs text-amber-600 mt-2">Akun dan akses paket Anda akan diaktifkan oleh admin setelah pembayaran diverifikasi.</p>
                 </div>
-                <div className="bg-green-50 border border-green-200 rounded-xl p-3 mb-4">
-                  <p className="text-green-700 text-sm font-medium">✅ Akun langsung aktif — bisa login sekarang!</p>
-                </div>
-                <Link href="/login" className="btn-md w-full justify-center bg-gradient-to-r from-amber-500 to-orange-600 text-white font-semibold rounded-xl hover:from-amber-600 hover:to-orange-700 transition-all shadow-lg shadow-amber-200/50 flex items-center gap-2">
-                  Login & Bayar Sekarang <ArrowRight className="w-4 h-4" />
-                </Link>
+                <a href="/login" className="btn-md w-full justify-center bg-gradient-to-r from-amber-500 to-orange-600 text-white font-semibold rounded-xl hover:from-amber-600 hover:to-orange-700 transition-all shadow-lg shadow-amber-200/50 flex items-center gap-2">
+                  Kembali ke Login <ArrowRight className="w-4 h-4" />
+                </a>
               </>
             ) : (
               <>
@@ -180,9 +180,9 @@ function RegisterContent() {
                   <p className="text-amber-800 text-sm font-medium">⏳ Status: Menunggu Persetujuan Admin</p>
                   <p className="text-amber-600 text-xs mt-1">Cek email <strong>{form.email}</strong> untuk detail pendaftaran.</p>
                 </div>
-                <Link href="/login" className="btn-md btn-primary w-full justify-center">
+                <a href="/login" className="btn-md btn-primary w-full justify-center flex items-center gap-2">
                   Kembali ke Login <ArrowRight className="w-4 h-4" />
-                </Link>
+                </a>
               </>
             )}
 
